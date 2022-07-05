@@ -236,9 +236,10 @@
   }
 
   .navbar {
-    top: 40px;
+    top: 0px;
     padding-right: 16px;
     padding-left: 16px;
+    padding-top: 40px !important;
   }
 
   .link-block-2 {
